@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets (copy .env.template to .env and fill in your key)
+.env
+
+# DeepEval local run results and cache
+.deepeval/
+
+# OS files
+.DS_Store
